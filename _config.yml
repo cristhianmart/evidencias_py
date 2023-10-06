@@ -1,0 +1,11 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Documentación
+
+nombres: Cristhian Andrés Martínez Cuesta
+submodulo: Nuevas Tecnólogias de la programación
+periodo: 2023-2
+url_foto: https://firebasestorage.googleapis.com/v0/b/produccion-fotografica-512c5.appspot.com/o/FOTO%20DIGITAL%20FONDO%20BLANCO%20-%20CRISTHIAN%20MART%C3%8DNEZ.jpg?alt=media&token=0250661e-bd54-4ae5-b956-708a6aec6784
+
